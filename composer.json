@@ -1,0 +1,12 @@
+{
+    "name": "hexlet/code",
+    "description": "First project on hexlet",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aleksandr Fedorov",
+            "email": "avffromspb@gmail.com"
+        }
+    ],
+    "require": {}
+}
