@@ -8,5 +8,8 @@
             "email": "avffromspb@gmail.com"
         }
     ],
+    "bin": [
+        "bin/brain-games"
+      ],
     "require": {}
 }
