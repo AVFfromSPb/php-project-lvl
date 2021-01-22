@@ -6,3 +6,9 @@
 
 ### Git Actions
 ![PHP Composer](https://github.com/AVFfromSPb/php-project-lvl1/workflows/PHP%20Composer/badge.svg?branch=main)
+
+How to install Mind game with github and composer:
+<script id="asciicast-dnLthgQ4PMh3qduAh7L29t4AB" src="https://asciinema.org/a/dnLthgQ4PMh3qduAh7L29t4AB.js" async></script>
+
+How to play brain-even:
+<script id="asciicast-fQn2OVpx7YnNnvDMvZ8ohZHvu" src="https://asciinema.org/a/fQn2OVpx7YnNnvDMvZ8ohZHvu.js" async></script>
