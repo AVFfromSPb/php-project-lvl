@@ -19,3 +19,6 @@ How to install Mind game with github and composer:
 
 How to play brain-even:
 [![asciicast](https://asciinema.org/a/fQn2OVpx7YnNnvDMvZ8ohZHvu.svg)](https://asciinema.org/a/fQn2OVpx7YnNnvDMvZ8ohZHvu)
+
+How to play brain-calc:
+[![asciicast](https://asciinema.org/a/q0EIiVfjuIfiWEIS7J11KFMEc.svg)](https://asciinema.org/a/q0EIiVfjuIfiWEIS7J11KFMEc)
