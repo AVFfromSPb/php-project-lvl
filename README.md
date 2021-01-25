@@ -25,3 +25,4 @@ How to play brain-calc:
 
 How to play brain-gcd:
 [![asciicast](https://asciinema.org/a/zWb0LLnkNnJMKitujXfThnlO1.svg)](https://asciinema.org/a/zWb0LLnkNnJMKitujXfThnlO1)
+
