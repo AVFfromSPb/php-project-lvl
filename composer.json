@@ -10,6 +10,7 @@
     ],
     "bin": [
         "bin/brain-games",
+        "bin/brain-calc",
         "bin/brain-even"
       ],
       "scripts": {
@@ -18,7 +19,9 @@
       "autoload": {
         "files": [
             "src/Cli.php",
-            "src/Even.php"
+            "src/Game.php",
+            "src/games/Even.php",
+            "src/games/Calc.php"
         ]
     },
     "require": {
