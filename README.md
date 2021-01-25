@@ -22,3 +22,6 @@ How to play brain-even:
 
 How to play brain-calc:
 [![asciicast](https://asciinema.org/a/q0EIiVfjuIfiWEIS7J11KFMEc.svg)](https://asciinema.org/a/q0EIiVfjuIfiWEIS7J11KFMEc)
+
+How to play brain-gcd:
+[![asciicast](https://asciinema.org/a/zWb0LLnkNnJMKitujXfThnlO1.svg)](https://asciinema.org/a/zWb0LLnkNnJMKitujXfThnlO1)
