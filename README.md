@@ -23,9 +23,11 @@ How to play brain-even:
 How to play brain-calc:
 [![asciicast](https://asciinema.org/a/q0EIiVfjuIfiWEIS7J11KFMEc.svg)](https://asciinema.org/a/q0EIiVfjuIfiWEIS7J11KFMEc)
 
-How to play brain-gcd:
-[![asciicast](https://asciinema.org/a/zWb0LLnkNnJMKitujXfThnlO1.svg)](https://asciinema.org/a/zWb0LLnkNnJMKitujXfThnlO1)
+How to play brain-prime:
+[![asciicast](https://asciinema.org/a/r8WUV6OWeJZtpcNeHukpon0Sk.svg)](https://asciinema.org/a/r8WUV6OWeJZtpcNeHukpon0Sk)
 
 How to play brain-progression:
 [![asciicast](https://asciinema.org/a/Dnn1CGfvq57bZKKFXEBBaCaqK.svg)](https://asciinema.org/a/Dnn1CGfvq57bZKKFXEBBaCaqK)
 
+How to play brain-gcd:
+[![asciicast](https://asciinema.org/a/zWb0LLnkNnJMKitujXfThnlO1.svg)](https://asciinema.org/a/zWb0LLnkNnJMKitujXfThnlO1)
