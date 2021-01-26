@@ -26,3 +26,6 @@ How to play brain-calc:
 How to play brain-gcd:
 [![asciicast](https://asciinema.org/a/zWb0LLnkNnJMKitujXfThnlO1.svg)](https://asciinema.org/a/zWb0LLnkNnJMKitujXfThnlO1)
 
+How to play brain-progression:
+[![asciicast](https://asciinema.org/a/Dnn1CGfvq57bZKKFXEBBaCaqK.svg)](https://asciinema.org/a/Dnn1CGfvq57bZKKFXEBBaCaqK)
+
