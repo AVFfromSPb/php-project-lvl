@@ -3,11 +3,11 @@
 namespace BrainGames\Prime;
 
 /**
- * Функция принимает целое число и возвращает true, если число простое, или false, если число составное.
  * Функция isPrime проверяет простоту числа
  *
+ * Функция принимает целое число и возвращает true, если число простое, или false, если число составное.
+ *
  * Функция принимает целое число и возвращает true, если число простое,
- * или false, если число составное.
  *
  * @param int $number
  *
@@ -17,7 +17,7 @@ namespace BrainGames\Prime;
 
 function isPrime(int $number): bool
 {
-    if ($number % 2 === 0) {
+    if (($number !== 2 && $number % 2 === 0) || $number <= 1) {
         return false;
     }
     for ($i = 3, $limit = sqrt($number); $i <= $limit; $i += 2) {
