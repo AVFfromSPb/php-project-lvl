@@ -1,6 +1,10 @@
 {
     "name": "hexlet/code",
     "description": "First project on hexlet",
+    "keywords": [
+        "games", 
+        "console game"
+    ],
     "license": "MIT",
     "authors": [
         {
