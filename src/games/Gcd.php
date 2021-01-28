@@ -2,6 +2,15 @@
 
 namespace BrainGames\Gcd;
 
+/**
+ * Функция getGcd рассчитывает НОД для двух целых чисел
+ *
+ * @param int $firstOperand
+ * @param int $secondOperand
+ *
+ * @return int
+ */
+
 function getGcd(int $firstOperand, int $secondOperand): int
 {
     if ($firstOperand > $secondOperand) {
@@ -20,6 +29,12 @@ function getGcd(int $firstOperand, int $secondOperand): int
         return getGcd($remainder, $secondNumber);
     }
 }
+
+/**
+ * Функция создает и возвращает вопрос и ответ к заданию в brain-gcd
+ *
+ * @return array
+ */
 
 function getTaskGcd(): array
 {
