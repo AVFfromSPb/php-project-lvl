@@ -6,6 +6,7 @@
         "console game"
     ],
     "license": "MIT",
+    "type": "project",
     "authors": [
         {
             "name": "Aleksandr Fedorov",
