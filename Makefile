@@ -1,9 +1,6 @@
 install:
 	composer install
 
-brain-games:
-	@./bin/brain-games
-	
 validate:
 	composer validate
 
@@ -24,5 +21,4 @@ brain-progression:
 
 brain-prime:
 	@./bin/brain-prime
-
 
