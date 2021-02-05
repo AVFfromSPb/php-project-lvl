@@ -4,6 +4,8 @@ namespace BrainGames\games\Gcd;
 
 use function BrainGames\Game\playBrainGame;
 
+use const BrainGames\Game\MAX_WINS_COUNT;
+
 /**
  * Функция getGcd рассчитывает НОД для двух целых чисел
  *
@@ -42,10 +44,9 @@ function getGcd(int $firstOperand, int $secondOperand): int
 function getTaskGcd()
 {
     $task = 'Find the greatest common divisor of given numbers.';
-    $countOfQuestions = 3;
     $expressionsQuestions = [];
     $correctAnswers = [];
-    for ($i = 0; $i < $countOfQuestions; $i++) {
+    for ($i = 0; $i < MAX_WINS_COUNT; $i++) {
         $firstOperand = mt_rand(1, 50);
         $secondOperand = mt_rand(1, 50);
         $expressionsQuestions[] = "$firstOperand $secondOperand";

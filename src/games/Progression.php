@@ -4,6 +4,8 @@ namespace BrainGames\games\Progression;
 
 use function BrainGames\Game\playBrainGame;
 
+use const BrainGames\Game\MAX_WINS_COUNT;
+
 /**
  * Функция создает задание, вопросы и ответы к заданию brain-progression
  *
@@ -12,13 +14,13 @@ use function BrainGames\Game\playBrainGame;
  *
  * @return void
  */
+
 function getTaskProgression()
 {
     $task = 'What number is missing in the progression?';
-    $countOfQuestions = 3;
     $expressionsQuestions = [];
     $correctAnswers = [];
-    for ($i = 0; $i < $countOfQuestions; $i++) {
+    for ($i = 0; $i < MAX_WINS_COUNT; $i++) {
         $length = 10;
         $difference = mt_rand(1, 10);
         $numberOfHiddenMember  = mt_rand(0, $length - 1);
