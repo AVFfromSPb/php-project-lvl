@@ -22,7 +22,9 @@ function playBrainGame(string $task, array $questions, array $correctAnswers)
     line($task);
     line('');
     $name = prompt('May I have your name?');
+    line('');
     line("Hello, %s!", $name);
+    line('');
     for ($i = 0; $i < MAX_WINS_COUNT; $i++) {
         line("Question: $questions[$i]");
         $answer = strtolower(prompt('Your answer'));
@@ -31,9 +33,11 @@ function playBrainGame(string $task, array $questions, array $correctAnswers)
             line('Correct!');
         } else {
             line("'$answer' is wrong answer ;(. Correct answer was '$correctAnswer'.");
+            line('');
             line("Let's try again, $name!");
             return;
         }
+        line('');
     }
     line("Congratulations, $name!");
     return;
